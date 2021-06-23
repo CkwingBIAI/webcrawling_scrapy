@@ -1,4 +1,4 @@
 # webcrawling_scrapy
 ## Setup
-$ pip install scrapy
-$ pip install beautifulsoup4
+- pip install scrapy
+- pip install beautifulsoup4
